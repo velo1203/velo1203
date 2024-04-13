@@ -1,7 +1,2 @@
-# 안녕하세요 😗
-
-인스타그램 팔로우해요!
-
-follow my [instagram](https://www.instagram.com/dev._ho/)!
-
-![Hosung's GitHub stats](https://github-readme-stats.vercel.app/api?username=velo1203&show_icons=true&theme=radical)
+### korea digital media high school WP 23
+한국 디지털 미디어 고등학교 23기 웹 프로그래밍학과
