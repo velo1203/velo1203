@@ -48,5 +48,6 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
     <img src="icons/GITHUB.png" width="130" />
+    <img src="icons/NOTION.png" width="130" />
     <img src="icons/NPM.png" width="130" />
 </div>
