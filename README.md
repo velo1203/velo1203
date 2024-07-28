@@ -25,6 +25,7 @@ gap: 5px;
     height: auto;
 }
 </style>
+
 <div class="icons">
     <img src="icons/REACT.png" alt="React">
     <img src="icons/NEXT.png" alt="Next.js">
