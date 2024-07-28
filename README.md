@@ -1,3 +1,16 @@
+<style>
+.icons {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 5px;
+}
+.icons img {
+    width: 130px;
+    height: auto;
+}
+</style>
+
 # Profile
 
 ### korea digital media high school WP 23
@@ -12,19 +25,6 @@
 ## 📚 Stack
 
 ### Frequently used stack
-
-<style>
-.icons {
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-gap: 5px;
-}
-.icons img {
-    width: 130px;
-    height: auto;
-}
-</style>
 
 <div class="icons">
     <img src="icons/REACT.png" alt="React">
