@@ -50,4 +50,6 @@
     <img src="icons/GITHUB.png" width="130" />
     <img src="icons/NOTION.png" width="130" />
     <img src="icons/NPM.png" width="130" />
+    <img src="icons/SWAGGER.png" width="130" />
+    <img src="icons/EC2.png" width="130" />
 </div>
